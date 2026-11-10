@@ -1,0 +1,2 @@
+model,threshold,roc_auc,average_precision,precision,recall,f1,fraud_caught,fraud_missed,false_alarms,legitimate_cleared
+"CatBoost — transaction + identity, 2000 budget",0.17389069420336645,0.9095977358562776,0.5620899971654225,0.5682866264632849,0.5196237431073629,0.5428668248051508,1602,1481,1217,84281
